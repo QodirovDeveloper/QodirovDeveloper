@@ -4,7 +4,7 @@
 
 ### 💼 Experience and Professional Orientation
 I have been working in the IT industry since 2024, specializing in building modern and powerful frontend solutions.
-My expertise includes working with technologies such as **React.js, Next.js, Framer Motion, TypeScript, and Redux Toolkit**.
+My expertise includes working with technologies such as **React.js, Next.js, Framer Motion, Shadcn UI, TypeScript, and Redux Toolkit**.
 
 
 ### 🧠 My unique aspects
